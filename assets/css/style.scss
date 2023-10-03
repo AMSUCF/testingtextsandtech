@@ -1,0 +1,13 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+// Custom styles for Jekyll Architect theme
+header {
+    background-color: black;
+    a {
+        color: green;
+    }
+}
+
