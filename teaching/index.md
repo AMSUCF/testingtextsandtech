@@ -3,8 +3,6 @@ layout: default
 title: Teaching Experience
 ---
 
-## Teaching Experience
-
 ### Course 1
 
 - Description
